@@ -302,7 +302,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Be Ready...
+  m_text: Get Ready...
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a30d086c6d3a8a4c910a2648fe4ad48, type: 2}
   m_sharedMaterial: {fileID: -4814961285423650659, guid: 8a30d086c6d3a8a4c910a2648fe4ad48, type: 2}
